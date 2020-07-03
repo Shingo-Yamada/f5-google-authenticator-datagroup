@@ -1,6 +1,7 @@
 # F5 BIG-IP APM Google Authenticator
 
 ![Branching](https://github.com/Shingo-Yamada/f5-google-authenticator-datagroup/blob/master/F5_Google_Auth_DataGroup2.gif?raw=true)
+
 The issued google secret is automatically registered in the BIG-IP data group.
 You can recreate the secret key by yourself.
 
