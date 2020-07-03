@@ -467,7 +467,7 @@ ltm data-group internal token_keys {
 ![Octocat](https://github.com/Shingo-Yamada/f5-google-authenticator-datagroup/blob/master/vpe/vpe11.png)
 
 ### ga_code_verify
-![Octocat](https://github.com/Shingo-Yamada/f5-google-authenticator-datagroup/blob/master/vpe/vpe13.png)
+![Octocat](https://github.com/Shingo-Yamada/f5-google-authenticator-datagroup/blob/master/vpe/vpe12.png)
 
 ![Octocat](https://github.com/Shingo-Yamada/f5-google-authenticator-datagroup/blob/master/vpe/vpe13.png)
 
